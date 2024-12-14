@@ -1,0 +1,38 @@
+.blog-card {
+  border: 3px solid #8ac926;
+  background-color: #011638;
+  color: #8ac926;
+  margin-top: 20px;
+  width: 20rem;
+}
+
+.button-like {
+  margin-left: 10px;
+}
+
+.button-remove {
+  color: #011638;
+}
+
+.button-remove:hover {
+  border: 3px solid #ae2012;
+  color: #011638;
+  font-weight: bold;
+}
+
+.blog-list-position {
+  margin-top: 20px;
+}
+
+.blog-list {
+  border: 3px solid #8ac926;
+}
+
+.blog-list-icon {
+  color: #011638;
+  margin-right: 5px;
+}
+
+.image-comment {
+  width: 20rem;
+}

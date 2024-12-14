@@ -1,0 +1,15 @@
+.icon-user {
+  color: #8ac926;
+  font-size: 100px;
+}
+
+.user-image {
+  width: 70%;
+  height: 70%;
+}
+
+.user-list {
+  border: 3px solid #8ac926;
+  color: #011638;
+  background-color: #edeec9;
+}

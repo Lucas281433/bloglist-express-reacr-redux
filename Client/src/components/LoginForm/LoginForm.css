@@ -1,0 +1,10 @@
+.image-position {
+  position: relative;
+  z-index: -1;
+  opacity: 0.2;
+}
+
+.form-position {
+    position: absolute;
+    z-index: 1;
+}

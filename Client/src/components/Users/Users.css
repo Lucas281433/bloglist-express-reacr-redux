@@ -1,0 +1,10 @@
+.users-image {
+  width: 70%;
+  height: 70%;
+}
+
+.users-table {
+  border: 3px solid #8ac926;
+  text-align: center;
+  color: #011638 !important;
+}

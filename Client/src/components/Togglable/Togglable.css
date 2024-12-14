@@ -1,0 +1,11 @@
+.button-cancel {
+    color: #011638;
+    flex-grow: 1;
+    margin-top: 5px;
+}
+
+.button-cancel:hover {
+    border: 3px solid #ae2012;
+    color: #011638;
+    font-weight: bold;
+}

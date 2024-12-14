@@ -1,0 +1,60 @@
+body {
+  background-color: #011638;
+  color: #8ac926;
+  font-family: 'Montserrat', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.nav-bar {
+  background-color: #8ac926;
+}
+.nav-link-decoration {
+  text-decoration: none;
+  color: #011638;
+  font-weight: bold;
+}
+
+.user-icon {
+  color: #011638;
+}
+
+.nav-text {
+  color: #011638;
+  font-weight: bold;
+}
+
+.input-style {
+  border: 3px solid #8ac926;
+}
+
+.input-style:focus {
+  border: 3px solid #70e000;
+}
+
+.input-style:hover {
+  border: 3px solid #70e000;
+}
+
+.button-style {
+  background-color: #8ac926;
+  border: 3px solid #70e000;
+  color: #011638;
+  flex-grow: 1;
+}
+
+.button-style:hover {
+  background-color: #70e000;
+  border: 3px solid #38b000;
+  color: #011638;
+  font-weight: bold;
+}
+
+.button-style:active {
+  background-color: #70e000 !important;
+  border: 3px solid #38b000 !important;
+  color: #011638 !important;
+  font-weight: bold;
+}
